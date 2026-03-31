@@ -15,5 +15,5 @@ public class Calculator{
        System.out.println("Division is : "+ (a/b));
     }
 }
-public class Calculator{
+
   
